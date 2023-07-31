@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory 'c:/Users/matti/Documents/EMNER/22V/CPP/Forelesninger/OF12'
+make: Leaving directory 'c:/Users/matti/Documents/EMNER/22V/CPP/Forelesninger/OF12'
+ 
+Makefile:2: *** missing separator.  Stop.
+
